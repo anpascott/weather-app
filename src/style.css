@@ -79,6 +79,10 @@ h3 {
   top: 15px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .max-temp-fc,
 .min-temp-fc {
   font-size: 10px;
@@ -97,6 +101,7 @@ h3 {
 .units {
   font-size: 16px;
   color: #24285b;
+  text-decoration: none;
 }
 .title {
   font-size: 14px;
