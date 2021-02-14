@@ -117,6 +117,7 @@ h3 {
   top: 4px;
 }
 .page-footer {
+  display: block;
   text-align: center;
   font-size: 16px;
   color: #3b6978;
