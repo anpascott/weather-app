@@ -79,8 +79,10 @@ h3 {
   top: 15px;
 }
 
-a {
+#celsius-link,
+#fahrenheit-link {
   text-decoration: none;
+  color: black;
 }
 
 .max-temp-fc,
