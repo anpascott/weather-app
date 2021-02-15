@@ -123,9 +123,10 @@ h3 {
   position: relative;
   top: 4px;
 }
-.repository {
+a .repository {
   display: block;
   text-align: center;
-  font-size: 50px;
+  font-size: 16px;
   color: #3b6978;
+  text-decoration: none;
 }
